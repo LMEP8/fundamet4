@@ -1,0 +1,12 @@
+body{
+    background-image: url('img/img9.jpg');
+}
+
+ul{font-family: sans-serif;
+background-color: aqua;color: blueviolet;}
+h2{background-color: bisque; color: rgb(236, 73, 8);}
+p{color: chartreuse;}
+h3{background-color: rgb(250, 42, 6);color: #0266fc;}
+button{color: rgb(245, 9, 225);}
+h1{font-family: serif;
+background-color: rgb(192, 17, 245); color: rgb(243, 247, 11);}
