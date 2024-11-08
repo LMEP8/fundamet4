@@ -1,5 +1,7 @@
 body{
     background-image: url('img/img9.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 ul{font-family: sans-serif;
